@@ -5,13 +5,11 @@ readme_content = """# Chatbot de Pepper con Personalidad Futbolística usando De
 
 Este proyecto permite que el robot humanoide Pepper reconozca la voz del usuario, identifique palabras del mundo del fútbol y genere respuestas dinámicas con inteligencia artificial usando la API de DeepSeek.
 
----
 
 ## 🎯 Objetivo
 
 Desarrollar una integración funcional entre el robot Pepper y un chatbot basado en IA (DeepSeek), donde la comunicación sea por voz y las respuestas tengan una personalidad de comentarista de fútbol.
 
----
 
 ## 🛠️ Componentes del Proyecto
 
@@ -20,7 +18,6 @@ Desarrollar una integración funcional entre el robot Pepper y un chatbot basado
 - **`cliente_pepe.py`**: Se ejecuta dentro de Pepper y le permite escuchar voz, reconocer palabras clave y hablar.
 - **`coding utf 8.md`** (opcional): Alternativa visual o extendida del cliente con más funciones.
 
----
 
 ## 📶 Arquitectura
 
@@ -37,3 +34,5 @@ Desarrollar una integración funcional entre el robot Pepper y un chatbot basado
         ↓
 [Pepper habla la respuesta]
 
+# Pepper
+ 5b5cb3d9ab351814f1a689d5cdd2ff03ab9a10f3
